@@ -82,9 +82,6 @@ This repository contains various data visualization and analysis functions tailo
 - Aggregates data to find average prices by neighborhood.
 - Visualizes the average prices on a scatter map.
 
-## Usage:
-
-To use any of the above functions, simply import them into your script or Jupyter notebook and provide the necessary input, usually a pandas DataFrame.
 
 
 
